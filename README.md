@@ -1,4 +1,4 @@
-<h1>Family Travel Tracker Project</h1>
+<h1>Family Travel Tracker Project ✈️</h1>
 It's a web app that help you highlight the countries you've visited in differen colors in a beautiful way.<br>
 You can add users (i.e family members) as well to see each other's traveled-into countries.<br>
 The project is related to two tables in a PostgreSQL database:<br>
